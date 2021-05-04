@@ -1,0 +1,3 @@
+WIDTH, HEIGHT = 200, 200
+CAPTION = 'menu test'
+FPS = 60
